@@ -1,3 +1,0 @@
-Jogue seus arquivos .mp4 ou .webm nesta pasta e referencie em src/data/videos.js assim:
-
-  { title: 'Demo do meu site', url: '/videos/meu-site.mp4' }
